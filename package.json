@@ -1,0 +1,21 @@
+{
+  "name": "webfreekspsd",
+  "version": "1.0.0",
+  "description": "psd for web freeks",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andre Hollow",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.2",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-cache": "^0.4.5",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-jade": "^1.1.0",
+    "imagemin-pngquant": "^5.0.0"
+  }
+}
